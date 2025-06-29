@@ -4,7 +4,9 @@
 ### [Notion Link](https://www.notion.so/titan-rover/Titan-Rover-Central-50ae737aff554f5998bd6ab5c1cf5322)
 
 # Who We Are:
-Titan Rover is legacy project club at CSUF. Our purpose is to research, design, and build a mock rover with the intent to compete in the University Rover Challenge (URC). This competition is hosted by The Mars Society once a year in Hanksville, Utah at the Mars Research Station. 
+Titan Rover is legacy project club at CSUF. Our purpose is to research, design, and build a mock rover with the intent to compete in the University Rover Challenge (URC). This competition is hosted by The Mars Society once a year in Hanksville, Utah at the Mars Research Station.
+Collaborators:
+Jason Ursenbach, Chaney Chantipaporn, Sean Del Castillo, Isaiah Odunze, Carter Loya, Joann Sum, Alan Blandon, Pedro Morales, Gabriel Magallanes, and Ryan Luong.
 
 
 # How to Use the Titan Rover Github:
